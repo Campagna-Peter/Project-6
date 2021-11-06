@@ -1,0 +1,12 @@
+11
+bubba: cletus lurlene dar2yl
+cletus:  lurlene dar2yl jane
+lurlene: cletus paul
+dar2yl: cletus bubba dar2yl
+paul: cletus bubba
+tom: dar2yl bubba cletus paul
+jane: bubba dar2yl paul
+mark: cletus lurlene tom alex
+tim: cletus lurlene ethan
+ethan: tim mark dar2yl bubba
+alex: lurlene tim mark bubba tom
